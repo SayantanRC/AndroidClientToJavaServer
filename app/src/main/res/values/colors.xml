@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#085e55</color>
+    <color name="colorPrimaryDark">#085e55</color>
+    <color name="colorAccent">#068a7c</color>
+    
+    <color name="chatBackground">#e8e4d9</color>
+    <color name="sentMessageColor">#e2ffc7</color>
+    <color name="receivedMessageColor">#ffffff</color>
+    <color name="statusMessageColor">#cccccc</color>
+    <color name="error_text_color">#b71c1c</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Client To Java Server</string>
+
+    <string name="connection_establish_dialog_header">Enter connection parameters</string>
+    <string name="start">Start chat</string>
+
+    <string name="ip_address">IP address</string>
+    <string name="port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="connecting">Connecting...</string>
+    <string name="disconnected">Disconnected</string>
+
+    <string name="server_not_connected">Server not connected!</string>
+
+</resources>
